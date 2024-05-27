@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48285757.css",
+    "main.js": "/static/js/main.bc88b791.js",
+    "static/media/Worldwize.jpg": "/static/media/Worldwize.acb0999d4a02afed767d.jpg",
+    "static/media/Aquarium.jpg": "/static/media/Aquarium.cd011ebadb56093b1e38.jpg",
+    "static/media/e-commerce.jpg": "/static/media/e-commerce.43703a5bddc7a66b0470.jpg",
+    "static/media/Todolist.jpg": "/static/media/Todolist.0c42f10779871be72c5c.jpg",
+    "static/media/jonnyb.jpg": "/static/media/jonnyb.7f493706e9c0474f82c2.jpg",
+    "index.html": "/index.html",
+    "main.48285757.css.map": "/static/css/main.48285757.css.map",
+    "main.bc88b791.js.map": "/static/js/main.bc88b791.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48285757.css",
+    "static/js/main.bc88b791.js"
+  ]
+}
