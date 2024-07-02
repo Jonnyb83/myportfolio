@@ -42,6 +42,7 @@
   height: 2.5rem;
   border-radius: 0.5rem;
   border-spacing: 0.5rem;
+  cursor: pointer;
 }
 
 .nav li.active {

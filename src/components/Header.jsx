@@ -13,7 +13,7 @@ const Header = () => {
   return (
     <>
       <div id="header">
-        <h3 className="header_text">Front-end Developer you may need</h3>
+        <h3 className="header_text">React Developer you may need</h3>
         <div className="header_container">
           <img src={img1} className="image" alt="Jonny B" />
           <p className="aboutme_text">
